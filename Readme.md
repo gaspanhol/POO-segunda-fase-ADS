@@ -32,3 +32,13 @@ git add ola.txt
 git commit -m "Criação do ola.txt"
 git status
 git tree
+
+```
+
+### Olá mundo em java
+```java
+public class Ola {
+    IO.print("Olá, mundo!");
+}
+
+```
