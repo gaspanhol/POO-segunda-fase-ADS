@@ -45,3 +45,6 @@ public class Ola {
 }
 
 ```
+
+### Sites úteis
+1. Site para ajudar a fazer um .gitignore: https://www.toptal.com/developers/gitignore/ 
