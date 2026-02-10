@@ -33,6 +33,9 @@ git commit -m "Criação do ola.txt"
 git status
 git tree
 
+# Como armazenar a senha do github em um terminal da máquina
+git config --global credential.helper 'cache --timeout=3600'
+
 ```
 
 ### Olá mundo em java
